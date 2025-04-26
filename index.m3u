@@ -1,83 +1,190 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
+#央视
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="CCTV",CCTV1
+http://itv.iptv1688.top:2016/itv.php?id=CCTV1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="CCTV",CCTV2
+http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="CCTV",CCTV3
+http://itv.iptv1688.top:2016/itv.php?id=CCTV3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="CCTV",CCTV4
+http://itv.iptv1688.top:2016/itv.php?id=CCTV4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="CCTV",CCTV5
+http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="CCTV",CCTV5+
+http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="CCTV",CCTV6
+http://itv.iptv1688.top:2016/itv.php?id=CCTV6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="CCTV",CCTV7
+http://itv.iptv1688.top:2016/itv.php?id=CCTV7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="CCTV",CCTV8
+http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="CCTV",CCTV9
+http://itv.iptv1688.top:2016/itv.php?id=CCTV9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="CCTV",CCTV10
+http://itv.iptv1688.top:2016/itv.php?id=CCTV10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="CCTV",CCTV11
+http://itv.iptv1688.top:2016/itv.php?id=CCTV11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="CCTV",CCTV12
+http://itv.iptv1688.top:2016/itv.php?id=CCTV12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="CCTV",CCTV13
+http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="CCTV",CCTV14
+http://itv.iptv1688.top:2016/itv.php?id=CCTV14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="CCTV",CCTV15
+http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="CCTV",CCTV16
+http://itv.iptv1688.top:2016/itv.php?id=CCTV16
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="CCTV",CCTV17
+http://itv.iptv1688.top:2016/itv.php?id=CCTV17
+
+#卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视",江苏卫视
+http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视",浙江卫视
+http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视",湖南卫视
+http://itv.iptv1688.top:2016/itv.php?id=湖南卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视",北京卫视
+http://itv.iptv1688.top:2016/itv.php?id=北京卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视",东方卫视
+http://itv.iptv1688.top:2016/itv.php?id=东方卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视",广东卫视
+http://itv.iptv1688.top:2016/itv.php?id=广东卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视",东南卫视
+http://itv.iptv1688.top:2016/itv.php?id=东南卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://itv.iptv1688.top:2016/itv.php?id=辽宁卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视",深圳卫视
+http://itv.iptv1688.top:2016/itv.php?id=深圳卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视",天津卫视
+http://itv.iptv1688.top:2016/itv.php?id=天津卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视",安徽卫视
+http://itv.iptv1688.top:2016/itv.php?id=安徽卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视",河北卫视
+http://itv.iptv1688.top:2016/itv.php?id=河北卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视",重庆卫视
+http://itv.iptv1688.top:2016/itv.php?id=重庆卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视",吉林卫视
+http://itv.iptv1688.top:2016/itv.php?id=吉林卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视",山东卫视
+http://itv.iptv1688.top:2016/itv.php?id=山东卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视",海南卫视
+http://itv.iptv1688.top:2016/itv.php?id=海南卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视",贵州卫视
+http://itv.iptv1688.top:2016/itv.php?id=贵州卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视",湖北卫视
+http://itv.iptv1688.top:2016/itv.php?id=湖北卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视",河南卫视
+http://itv.iptv1688.top:2016/itv.php?id=河南卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视",广西卫视
+http://itv.iptv1688.top:2016/itv.php?id=广西卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视",江西卫视
+http://itv.iptv1688.top:2016/itv.php?id=江西卫视
+#EXTINF:-1 tvg-id="陝西卫视" tvg-name="陝西卫视" tvg-logo="https://live.fanmingming.cn/tv/陝西卫视.png" group-title="卫视",陝西卫视
+http://itv.iptv1688.top:2016/itv.php?id=陝西卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://itv.iptv1688.top:2016/itv.php?id=宁夏卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://itv.iptv1688.top:2016/itv.php?id=内蒙古卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视",西藏卫视
+http://itv.iptv1688.top:2016/itv.php?id=西藏卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视",四川卫视
+http://itv.iptv1688.top:2016/itv.php?id=四川卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视",山西卫视
+http://itv.iptv1688.top:2016/itv.php?id=山西卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://itv.iptv1688.top:2016/itv.php?id=甘肃卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视",新疆卫视
+http://itv.iptv1688.top:2016/itv.php?id=新疆卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视",青海卫视
+http://itv.iptv1688.top:2016/itv.php?id=青海卫视
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视",延边卫视
+http://itv.iptv1688.top:2016/itv.php?id=延边卫视
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="卫视",兵团卫视
+http://itv.iptv1688.top:2016/itv.php?id=兵团卫视
+
+
 #春晚
-#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1983年春晚
+#EXTINF:-1 tvg-id="1983年春晚" tvg-name="1983年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1983年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1984年春晚
+#EXTINF:-1 tvg-id="1984年春晚" tvg-name="1984年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1984年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1985年春晚
+#EXTINF:-1 tvg-id="1985年春晚" tvg-name="1985年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1985年春晚
 http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1986年春晚
+#EXTINF:-1 tvg-id="1986年春晚" tvg-name="1986年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1986年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1987年春晚
+#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1988年春晚
+#EXTINF:-1 tvg-id="1988年春晚" tvg-name="1988年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1988年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1989年春晚
+#EXTINF:-1 tvg-id="1989年春晚" tvg-name="1989年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1989年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1992年春晚
+#EXTINF:-1 tvg-id="1992年春晚" tvg-name="1992年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1992年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1993年春晚
+#EXTINF:-1 tvg-id="1993年春晚" tvg-name="1993年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1993年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1994年春晚
+#EXTINF:-1 tvg-id="1994年春晚" tvg-name="1994年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1994年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1995年春晚
+#EXTINF:-1 tvg-id="1995年春晚" tvg-name="1995年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1995年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1996年春晚
+#EXTINF:-1 tvg-id="1996年春晚" tvg-name="1996年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1996年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1997年春晚
+#EXTINF:-1 tvg-id="1997年春晚" tvg-name="1997年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1997年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1998年春晚
+#EXTINF:-1 tvg-id="1998年春晚" tvg-name="1998年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1998年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",1999年春晚
+#EXTINF:-1 tvg-id="1999年春晚" tvg-name="1999年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",1999年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2000年春晚
+#EXTINF:-1 tvg-id="2000年春晚" tvg-name="2000年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2000年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2001年春晚
+#EXTINF:-1 tvg-id="2001年春晚" tvg-name="2001年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2001年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2002年春晚
+#EXTINF:-1 tvg-id="2002年春晚" tvg-name="2002年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2002年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2003年春晚
+#EXTINF:-1 tvg-id="2003年春晚" tvg-name="2003年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2003年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2004年春晚
+#EXTINF:-1 tvg-id="2004年春晚" tvg-name="2004年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2004年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2005年春晚
+#EXTINF:-1 tvg-id="2005年春晚" tvg-name="2005年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2005年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2006年春晚
+#EXTINF:-1 tvg-id="2006年春晚" tvg-name="2006年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2006年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2007年春晚
+#EXTINF:-1 tvg-id="2007年春晚" tvg-name="2007年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2007年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2008年春晚
+#EXTINF:-1 tvg-id="2008年春晚" tvg-name="2008年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2008年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2009年春晚
+#EXTINF:-1 tvg-id="2009年春晚" tvg-name="2009年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2009年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2010年春晚
+#EXTINF:-1 tvg-id="2010年春晚" tvg-name="2010年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2010年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2011年春晚
+#EXTINF:-1 tvg-id="2011年春晚" tvg-name="2011年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2011年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2012年春晚
+#EXTINF:-1 tvg-id="2012年春晚" tvg-name="2012年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2012年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2013年春晚
+#EXTINF:-1 tvg-id="2013年春晚" tvg-name="2013年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2013年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2014年春晚
+#EXTINF:-1 tvg-id="2014年春晚" tvg-name="2014年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2014年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2015年春晚
+#EXTINF:-1 tvg-id="2015年春晚" tvg-name="2015年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2015年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2016年春晚
+#EXTINF:-1 tvg-id="2016年春晚" tvg-name="2016年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2016年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2017年春晚
+#EXTINF:-1 tvg-id="2017年春晚" tvg-name="2017年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2017年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2018年春晚
+#EXTINF:-1 tvg-id="2018年春晚" tvg-name="2018年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2018年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2019年春晚
+#EXTINF:-1 tvg-id="2019年春晚" tvg-name="2019年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2019年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2020年春晚
+#EXTINF:-1 tvg-id="2020年春晚" tvg-name="2020年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2020年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2021年春晚
+#EXTINF:-1 tvg-id="2021年春晚" tvg-name="2021年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2021年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2022年春晚
+#EXTINF:-1 tvg-id="2022年春晚" tvg-name="2022年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2022年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2023年春晚" tvg-name="2023年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2023年春晚
+#EXTINF:-1 tvg-id="2023年春晚" tvg-name="2023年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2023年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-#EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" tvg-logo="https://live.fanmingming.com/tv/春晚.png" group-title="春晚频道",2024年春晚
+#EXTINF:-1 tvg-id="2024年春晚" tvg-name="2024年春晚" tvg-logo="https://live.fanmingming.cn/tv/春晚.png" group-title="春晚频道",2024年春晚
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
